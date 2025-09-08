@@ -29,7 +29,7 @@ Users can easily control lights, fans, and other appliances via **mobile applica
 
 ## 📊 System Architecture
 
-![System Architecture](./System Architecture/system_architecture_v2.png)
+![System Architecture](./System_Architecture/system_architecture_v2.png)
 
 ### 🔎 Analysis
 The diagram illustrates how **users, devices, Wi-Fi network, and cloud services** interact:
