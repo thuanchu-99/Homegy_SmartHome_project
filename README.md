@@ -85,11 +85,3 @@ The diagram illustrates how **users, devices, Wi-Fi network, and cloud services*
 <img src="./product/switch_4ch.jpg" width="400">
 
 ---
-
-## 📂 Project Structure
-```bash
-Homegy_SmartHome_project/
-│── Firmware/       # ESP32/ESP8266 source code
-│── Hardware/       # Schematics, PCB (Altium/KiCad)
-│── Doc/            # Catalogue, datasheets, images
-│── README.md       # Project introduction
